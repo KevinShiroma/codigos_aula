@@ -1,6 +1,6 @@
 # Repositório de Slides e Códigos
 
-Bem-vindo ao repositório de **Slides e Códigos**! Este repositório contém materiais de aula para cursos de **Machine Learning**, **Inteligência Artificial (IA)**, **Ciência de Dados** e **Big Data**.
+Bem-vindo ao repositório de **dos slides e códigos das disciplinas do 4º semestre da fecap do curso de ADS**! Este repositório contém materiais de aula para cursos de **Machine Learning**, **Inteligência Artificial (IA)** e **Ciência de Dados e Big Data**.
 
 ## Instruções para Uso
 
